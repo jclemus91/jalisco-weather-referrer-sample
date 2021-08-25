@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jaliscoweather</string>
+    <string name="title_jalisco">Jalisco</string>
+    <string name="title_zapopan">Zapopan</string>
+    <string name="title_tesistan">Tesistan</string>
+</resources>

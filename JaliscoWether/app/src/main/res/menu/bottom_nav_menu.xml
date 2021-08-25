@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_jalisco"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_jalisco" />
+
+    <item
+        android:id="@+id/navigation_zapopan"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_zapopan" />
+
+    <item
+        android:id="@+id/navigation_tesistan"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_tesistan" />
+
+</menu>
